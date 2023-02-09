@@ -9,7 +9,7 @@
 		"preview": "vite preview"
 	},
 	"dependencies": {
-		"@benny-eleventy/benny-ui": "^1.1.3",
+		"@benny-eleventy/benny-ui": "^1.1.4",
 		"framer-motion": "^9.0.2",
 		"react": "^18.2.0",
 		"react-dom": "^18.2.0",
